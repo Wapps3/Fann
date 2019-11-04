@@ -1,0 +1,14 @@
+﻿  Fann.cpp
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_test référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_reset_MSE référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_read_train_from_file référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_destroy_train référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_length_train_data référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_create_from_file référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_destroy référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_print_connections référencé dans la fonction main
+Fann.obj : error LNK2019: symbole externe non résolu __imp_fann_print_parameters référencé dans la fonction main
+D:\Outils\FANN-2.2.0-Source\bin\fannfloat.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+D:\Outils\FANN-2.2.0-Source\bin\fanndouble.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+D:\Outils\FANN-2.2.0-Source\bin\fannfixed.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+D:\M2\SystemComplex\Fann\x64\Debug\Fann.exe : fatal error LNK1120: 9 externes non résolus
